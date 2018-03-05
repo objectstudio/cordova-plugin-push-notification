@@ -1,11 +1,23 @@
 {
   "version": "3.3.2",
   "name": "cordova-plugin-telerik-pushnotifications",
+  "cordova": {
+    "id": "cordova-plugin-telerik-pushnotifications",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsOnMe/CordovaClipboard.git"
+  },
   "cordova_name": "Telerik Push Notifications",
   "description": "This plugin allows your application to receive push notifications. Tailored for (but not limited to) Telerik Platform Backend Services.",
   "license": "MIT",
-  "repo": "https://github.com/Telerik-Verified-Plugins/PushNotification.git",
-  "issue": "https://github.com/Telerik-Verified-Plugins/PushNotification/issues",
+  "repo": "https://github.com/ItsOnMe/PushNotification.git",
+  "issue": "https://github.com/ItsOnMe/PushNotification/issues",
   "keywords": [
     "Push",
     "Notification",
