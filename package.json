@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItsOnMe/CordovaClipboard.git"
+    "url": "git+https://github.com/ItsOnMe/PushNotification.git"
   },
   "cordova_name": "Telerik Push Notifications",
   "description": "This plugin allows your application to receive push notifications. Tailored for (but not limited to) Telerik Platform Backend Services.",
