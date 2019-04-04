@@ -1,2 +1,2 @@
-def manifest = new XmlSlurper().parse(file("AndroidManifest.xml"))
+def manifest = new XmlSlurper().parse(file("src/main/AndroidManifest.xml"))
 android.defaultConfig.applicationId manifest.@package.text()
